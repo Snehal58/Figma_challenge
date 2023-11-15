@@ -35,3 +35,11 @@
 - Learn more about [Universal React](https://docs.expo.dev/).
 - See what API and components are [available in the React runtimes](https://docs.expo.dev/versions/latest/).
 - Find out more about developing apps and websites: [Official guides](https://docs.expo.dev/guides/).
+
+## ScreenShot to refer
+![Screenshot_1700054341](https://github.com/Snehal58/Figma_challenge/assets/91478785/8d689042-f0ee-40af-8211-38c10d7ebb42)
+![Screenshot_1700054352](https://github.com/Snehal58/Figma_challenge/assets/91478785/d6713b88-99bf-45e9-af1b-b02ec55f802d)
+![Screenshot_1700054355](https://github.com/Snehal58/Figma_challenge/assets/91478785/92a58534-1459-4196-bef0-331b8f2fed1a)
+
+
+
